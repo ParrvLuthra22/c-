@@ -1,4 +1,4 @@
-# Shopping List Application (ShopIT
+# Shopping List Application (ShopIT)
 
 A simple **Shopping List** application built with Python's Tkinter library. This app allows users to manage a shopping list by adding or removing items and calculating the total number of items.
 
