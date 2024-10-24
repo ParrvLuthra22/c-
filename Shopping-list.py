@@ -15,9 +15,9 @@ entry_price = None
 listbox = None
 combobox_category = None
 combobox_filter = None
-categories = ["Grocery", "Stationery", "Electronics", "Household", "Clothing", "Other", "All"]
+categories = ["Grocery", "Stationery", "Electronics", "Household", "Clothing", "Other", "All", "favourite", "okay"]
 
-# Function to load shopping list from a JSON file
+# Function to load shopping list from a JSON file.
 def load_list():
     global shopping_list
     if os.path.exists(filename):
